@@ -1,0 +1,13 @@
+# Images uploaded by users
+images/*
+!images/.gitkeep
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
